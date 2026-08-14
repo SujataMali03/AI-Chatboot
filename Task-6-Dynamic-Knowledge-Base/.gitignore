@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+vector_db/
+data/source_state.json
