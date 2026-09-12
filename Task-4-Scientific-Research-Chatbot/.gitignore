@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large arXiv dataset
+data/arxiv-metadata-oai-snapshot.json
+
+# Generated datasets
+data/cs_papers.csv
+data/cs_papers_clean.csv
+
+# ChromaDB generated database
+database/chroma_db/
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
